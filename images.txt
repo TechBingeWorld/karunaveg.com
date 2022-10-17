@@ -1,0 +1,2 @@
+images coming from server are storing in upload_images
+Other images such as images for slider, log, etc are has been stored in assests->images
