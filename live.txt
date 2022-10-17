@@ -1,0 +1,2 @@
+kvs : database name live
+kvs_veg : User name live
